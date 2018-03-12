@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJ.HangFire", "EJ.HangFire\EJ.HangFire.csproj", "{BF360D66-F635-4099-8726-EDF965A11049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF360D66-F635-4099-8726-EDF965A11049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF360D66-F635-4099-8726-EDF965A11049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF360D66-F635-4099-8726-EDF965A11049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF360D66-F635-4099-8726-EDF965A11049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADAF52AB-8AA6-48B4-AD01-35C5835254CB}
+	EndGlobalSection
+EndGlobal
